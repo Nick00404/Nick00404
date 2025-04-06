@@ -4,7 +4,7 @@
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-# 🤖 BUILDER OF TOMORROW | AI CO-PILOT IN CRIME  
+# 🤖 Code Alchemist | AI Visionary  
 ### *"Built by me and my AI co-pilot. Call it a neural bromance."*
 
 <div align="center">
@@ -49,27 +49,9 @@ I started in commerce until spreadsheets became too small for my ambitions. Hear
 
 ---
 
-## 🎨 CUSTOM THEME: CYBERPUNK / DARK MODE VIBES  
-I believe in a style that’s as bold as the code inside. Here are some tips to create a custom GitHub profile theme:
-
-- **Dark/Cyberpunk Aesthetics:**  
-  Use a dark banner image, neon accents, and cyberpunk fonts.  
-  [Explore Cyberpunk UI Kits](https://dribbble.com/tags/cyberpunk_ui) for inspiration.
-
-- **Custom CSS with GitHub Profile Readme:**  
-  While GitHub itself limits custom CSS, you can showcase your style in your assets (banners, logos, etc.).  
-  Consider linking to a live demo or a website that reflects your theme.
-
-- **Tools & Resources:**  
-  - [Shields.io](https://shields.io) for custom badges.  
-  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for dynamic cards.  
-  - [Vercel](https://vercel.com) or [Netlify](https://netlify.com) for hosting a personal site with full theme control.
-
----
 
 ## 💬 LET’S CONNECT  
-- **LinkedIn:** [Your LinkedIn URL](#)  
-- **Twitter:** [Your Twitter Handle](#)  
+- **Mail:** nick.ml.dev@gmail.com(#)   
 - **DMs Open:** Always up for collabs that blur the lines between man and machine.
 
 ---
