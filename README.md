@@ -8,7 +8,7 @@
 ### *"Built by me and my AI co-pilot. Call it a neural bromance."*
 
 <div align="center">
-https://github.com/Nick00404/Nick00404/blob/main/banner.png
+<img src="https://raw.githubusercontent.com/Nick00404/Nick00404/main/banner.png" alt="Banner" width="100%" />
 </div>
 ---
 
