@@ -51,7 +51,7 @@ I started in commerce until spreadsheets became too small for my ambitions. Hear
 
 
 ## 💬 LET’S CONNECT  
-- **Mail:** nick.ml.dev@gmail.com(#)   
+- **Mail:** nick.ml.dev@gmail.com  
 - **DMs Open:** Always up for collabs that blur the lines between man and machine.
 
 ---
