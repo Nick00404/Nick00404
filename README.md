@@ -13,6 +13,13 @@ Just one month into the world of **AI & Machine Learning** and already knee-deep
 
 ---
 
+# 🚀 Under The Hood University (UTHU)
+
+> “I am building the repo every engineer wishes they had when they started learning AI + MLOps + Fullstack.”  
+> - [**under_the_hood_university**](https://github.com/Nick00404/under_the_hood_university)
+
+---
+
 ## 🛠 Projects I’m Proud Of (Even If They're Messy)
 
 - [**ml_pipeline_automation**](https://github.com/Nick00404/ml_pipeline_automation)  
@@ -20,9 +27,6 @@ Just one month into the world of **AI & Machine Learning** and already knee-deep
 
 - [**chatbot_production**](https://github.com/Nick00404/chatbot_production)  
   Built a chatbot. Not sentient yet, but it’s polite.
-
-- [**under_the_hood_university**](https://github.com/Nick00404/under_the_hood_university)  
-  Where I get my hands dirty understanding what’s *really* going on in ML models.
 
 ---
 
